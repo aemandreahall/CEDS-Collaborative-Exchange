@@ -8,7 +8,7 @@ The CEDS Collaborative Exchange is a repository of code developed by the communi
 Each contributor should provide a readme for the code and how to implement it. Ideally, the contributor will provide information about installation, testing, and deployment.
 
 ## Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
