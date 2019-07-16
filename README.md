@@ -12,7 +12,7 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 
 ## Versioning
 
-We do not follow any versioning process with this repository because it is a repository of different projects, each following their own versioning path.  
+We do not follow any versioning process with this repository because it is a repository of different projects, each following their own versioning path.  Files and code in the Master branch is considered production quality.  
 
 ## License
 All contributions to this repository are considered licensed under the [Apache License 2.0](LICENSE).
