@@ -2,7 +2,7 @@
 
 # CEDS Collaborative Exchange
 
-The CEDS Collaborative Exchange is a repository of code developed by the community that interacts with either the CEDS Integrated Data Store, the CEDS Data Warehouse or the CEDS Element listing. All resources provided in this community are considered free and open source. 
+The CEDS Collaborative Exchange is a repository of code developed by the community that interacts with the CEDS Integrated Data Store, the CEDS Data Warehouse, or the CEDS Element listing. All resources provided in this community are considered free and open source. 
 
 ## Getting Started
 Each contributor should provide a readme for the code and how to implement it. Ideally, the contributor will provide information about installation, testing, and deployment.
